@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 Jun, 2021, 12:18:36 AM
+    Author     : HP
+*/
+
+.bg-custom{
+    background-color: #8e24aa;
+}
+.navbar .nav-item .nav-link {
+    font-size: 20px;
+    color: white;
+}
+.navbar-custom .nav-item:hover .nav-link{
+    
+    color:black;
+   background-color: gold;
+    border-radius: 10px;
+}
+.div-color{
+   background-image: linear-gradient(to right bottom, #fb840b, #ff9b00, #ffb100, #ffc800, #fede00, #f6e800, #edf100, #e2fb00, #d3fa04, #c4f80c, #b4f715, #a4f51d);
+    height: 600px;
+}
